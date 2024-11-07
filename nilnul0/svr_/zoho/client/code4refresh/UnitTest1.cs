@@ -539,7 +539,7 @@ namespace nilnul.svr_.zoho.acc.code4refresh
 
 			///Scope Name: AaaServer.profile.UPDATE,AaaServer.profile.Read
 			///This code for the above scope is valid for only 10 minutes
-			var code = "1000.ad3b31f4ae02a7b415e66bb19881d99f.e7f0b659bc78d107c9831bf43a1e7277";
+			var code = "1000.ad3b3.e7f";
 
 			/// get the token
 			///

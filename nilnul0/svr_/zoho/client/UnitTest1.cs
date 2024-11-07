@@ -467,7 +467,7 @@ namespace nilnul._task_._TEST_.schedule.svr_.zoho
 
 			///Scope Name: AaaServer.profile.UPDATE,AaaServer.profile.Read
 			///This code for the above scope is valid for only 10 minutes
-			var code = "1000.a5ad55e195a5a109b5152331202fa92b.820e6119b270574435d9a28dffab08f1";
+			var code = "1000.a5ad*****.820e****";
 
 			/// get the token
 			///
