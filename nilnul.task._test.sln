@@ -7,9 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "111._ref", "111._ref", "{32
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilnul._task_._TEST_", "nilnul._task_._TEST_.csproj", "{841D21DA-0B87-4824-87CB-EAD3EC96AFA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilnul._task_._LIB_", "..\_LIB_(Git\nilnul._task_._LIB_.csproj", "{6A659E43-DB3A-43E7-B071-697B6FA07975}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilnul._task_._LIB_", "..\_LIB_\nilnul._task_._LIB_.csproj", "{6A659E43-DB3A-43E7-B071-697B6FA07975}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilnul._task_._LINQ_", "..\_LINQ_(Git\nilnul._task_._LINQ_.csproj", "{9CA81D3C-F974-4745-84B4-784AD631F649}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilnul._task_._LINQ_", "..\_LINQ_\nilnul._task_._LINQ_.csproj", "{9CA81D3C-F974-4745-84B4-784AD631F649}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{826FB7FB-9920-441C-9184-8307E02243E2}"
 EndProject
