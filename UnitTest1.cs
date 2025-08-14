@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,8 +20,8 @@ namespace test
 		[TestMethod]
 		public void Sim()
 		{
-			var proj = nilnul.task.prj.survey_.simulate_.Demo.proj;
-			var sim = new nilnul.task.prj.survey_.Simulate(nilnul.task.prj.survey_.simulate_.Demo.proj);
+			var proj = nilnul.task.prj.survey_.simulate_.eg_.Demo.proj;
+			var sim = new nilnul.task.prj.survey_.Simulate(nilnul.task.prj.survey_.simulate_.eg_.Demo.proj);
 			var cdf =sim.getCdf();
 
 			///todo: double to rational in range
